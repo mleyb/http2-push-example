@@ -11,7 +11,7 @@
   "author": "RisingStack, Inc.",
   "license": "MIT",
   "dependencies": {
-    "mime": "1.3.6"
+    "mime": "1.4.1"
   },
   "devDependencies": {
     "eslint": "4.4.1",
